@@ -1,3 +1,3 @@
-# m5-project
+# project
 
 Using AWS Cloud formation to automate a custom VPC named myappvpc 
